@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.DeadWizardCard[]">
+    <Item>
+      <Name>Pixie Paradise</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 0</Position>
+    </Item>
+    <Item>
+      <Name>Afterlife Artifact</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 1</Position>
+    </Item>
+    <Item>
+      <Name>Slag Shangri-La</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 2</Position>
+    </Item>
+    <Item>
+      <Name>Nectar of Nirvana</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 3</Position>
+    </Item>
+    <Item>
+      <Name>Afterlife Artifact</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 4</Position>
+    </Item>
+    <Item>
+      <Name>The Big House</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 5</Position>
+    </Item>
+    <Item>
+      <Name>Afterlife Artifact</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 6</Position>
+    </Item>
+    <Item>
+      <Name>Backlash from Beyond</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 7</Position>
+    </Item>
+    <Item>
+      <Name>Nectar of Nirvana</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 8</Position>
+    </Item>
+    <Item>
+      <Name>Slag Shangri-La</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>0 9</Position>
+    </Item>
+    <Item>
+      <Name>Slag Shangri-La</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 0</Position>
+    </Item>
+    <Item>
+      <Name>Wild Furicon Meadow</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 1</Position>
+    </Item>
+    <Item>
+      <Name>Pixie Paradise</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 2</Position>
+    </Item>
+    <Item>
+      <Name>Wild Furicon Meadow</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 3</Position>
+    </Item>
+    <Item>
+      <Name>Backlash from Beyond</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 4</Position>
+    </Item>
+    <Item>
+      <Name>Pixie Paradise</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 5</Position>
+    </Item>
+    <Item>
+      <Name>The Big House</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 6</Position>
+    </Item>
+    <Item>
+      <Name>Afterlife Artifact</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 7</Position>
+    </Item>
+    <Item>
+      <Name>Afterlife Artifact</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 8</Position>
+    </Item>
+    <Item>
+      <Name>The Giant Space Kingdom in the Sky</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>1 9</Position>
+    </Item>
+    <Item>
+      <Name>The Big House</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>2 0</Position>
+    </Item>
+    <Item>
+      <Name>The Giant Space Kingdom in the Sky</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>2 1</Position>
+    </Item>
+    <Item>
+      <Name>The Giant Space Kingdom in the Sky</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>2 2</Position>
+    </Item>
+    <Item>
+      <Name>The Giant Space Kingdom in the Sky</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>2 3</Position>
+    </Item>
+    <Item>
+      <Name>Wild Furicon Meadow</Name>
+      <Tileset>deadwizard</Tileset>
+      <Position>2 4</Position>
+    </Item>
+  </Asset>
+</XnaContent>

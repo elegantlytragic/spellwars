@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.TreasureCard[]">
+    <Item>
+      <Name>Fool's Gold</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 0</Position>
+    </Item>
+    <Item>
+      <Name>The Pumps of Power</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 1</Position>
+    </Item>
+    <Item>
+      <Name>The Trickster's Boots</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 2</Position>
+    </Item>
+    <Item>
+      <Name>Cheater's Handbook</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 3</Position>
+    </Item>
+    <Item>
+      <Name>Desperation Stones</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 4</Position>
+    </Item>
+    <Item>
+      <Name>The Moccasins of Mana</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 5</Position>
+    </Item>
+    <Item>
+      <Name>The Phister Cannon</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 6</Position>
+    </Item>
+    <Item>
+      <Name>Plink Cannon</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 7</Position>
+    </Item>
+    <Item>
+      <Name>The Wood Lord's Clogs</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 8</Position>
+    </Item>
+    <Item>
+      <Name>Crown of the Meek</Name>
+      <Tileset>treasure</Tileset>
+      <Position>0 9</Position>
+    </Item>
+    <Item>
+      <Name>Skullzor Ring of Power</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 0</Position>
+    </Item>
+    <Item>
+      <Name>The Demon Shoes!</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 1</Position>
+    </Item>
+    <Item>
+      <Name>Proton Gem</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 2</Position>
+    </Item>
+    <Item>
+      <Name>The Double Downer</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 3</Position>
+    </Item>
+    <Item>
+      <Name>Slow Roller's Throne</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 4</Position>
+    </Item>
+    <Item>
+      <Name>Lady Luck's Brassiere</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 5</Position>
+    </Item>
+    <Item>
+      <Name>The "Let's End This!" Shit</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 6</Position>
+    </Item>
+    <Item>
+      <Name>Amulet of Maneg</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 7</Position>
+    </Item>
+    <Item>
+      <Name>Methy-Ion's Backpack of Speed</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 8</Position>
+    </Item>
+    <Item>
+      <Name>Big Book of Awesomeness</Name>
+      <Tileset>treasure</Tileset>
+      <Position>1 9</Position>
+    </Item>
+    <Item>
+      <Name>Lady Luck's Garters</Name>
+      <Tileset>treasure</Tileset>
+      <Position>2 0</Position>
+    </Item>
+    <Item>
+      <Name>The Joker's Wild Codpiece</Name>
+      <Tileset>treasure</Tileset>
+      <Position>2 1</Position>
+    </Item>
+    <Item>
+      <Name>The Thinking Cap</Name>
+      <Tileset>treasure</Tileset>
+      <Position>2 2</Position>
+    </Item>
+    <Item>
+      <Name>Kingor the Sharp Seer's Crown</Name>
+      <Tileset>treasure</Tileset>
+      <Position>2 3</Position>
+    </Item>
+    <Item>
+      <Name>Lady Luck's Panties</Name>
+      <Tileset>treasure</Tileset>
+      <Position>2 4</Position>
+    </Item>
+  </Asset>
+</XnaContent>

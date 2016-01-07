@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.SourceCard[]">
+    <Item>
+      <Name>Wyrmtor's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 1</Position>
+    </Item>
+    <Item>
+      <Name>Ben Voodo's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 5</Position>
+    </Item>
+    <Item>
+      <Name>Pam and Necuba's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 6</Position>
+    </Item>
+    <Item>
+      <Name>Sir Lootzor's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 0</Position>
+    </Item>
+    <Item>
+      <Name>Walker Time Ranger's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 6</Position>
+    </Item>
+    <Item>
+      <Name>Magma Gog's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 2</Position>
+    </Item>
+    <Item>
+      <Name>Beard'O Blasty's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 3</Position>
+    </Item>
+    <Item>
+      <Name>Sphinxion's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 4</Position>
+    </Item>
+    <Item>
+      <Name>Rose Bottom's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 5</Position>
+    </Item>
+    <Item>
+      <Name>Old Scratch's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 7</Position>
+    </Item>
+    <Item>
+      <Name>King Oberon's</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 9</Position>
+    </Item>
+  </Asset>
+</XnaContent>

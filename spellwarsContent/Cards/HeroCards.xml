@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.HeroCard[]">
+    <Item>
+      <Name>Hogs the House</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 0</Position>
+    </Item>
+    <Item>
+      <Name>Pisster the Pissed Wizard</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 1</Position>
+    </Item>
+    <Item>
+      <Name>Lady Lazerverse</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 2</Position>
+    </Item>
+    <Item>
+      <Name>Fey Ticklebottom the Enchanter</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 3</Position>
+    </Item>
+    <Item>
+      <Name>Zanzabart the Slag Genie</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 4</Position>
+    </Item>
+    <Item>
+      <Name>Princess Holiday and her Furicorn</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 5</Position>
+    </Item>
+    <Item>
+      <Name>Krazztar the Blood'O'Mancer</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 6</Position>
+    </Item>
+    <Item>
+      <Name>Jung Jung the Spirit Master</Name>
+      <Tileset>heroes</Tileset>
+      <Position>0 7</Position>
+    </Item>
+  </Asset>
+</XnaContent>

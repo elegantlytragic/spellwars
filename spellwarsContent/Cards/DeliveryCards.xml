@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.DeliveryCard[]">
+    <Item>
+      <Name>Cone of Acid</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 0</Position>
+      <Intensity>4</Intensity>
+    </Item>
+    <Item>
+      <Name>Exorcism</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 8</Position>
+      <Intensity>11</Intensity>
+    </Item>
+    <Item>
+      <Name>Bedazzlement</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 2</Position>
+      <Intensity>19</Intensity>
+    </Item>
+    <Item>
+      <Name>Vorpal Trap</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 5</Position>
+      <Intensity>13</Intensity>
+    </Item>
+    <Item>
+      <Name>Pact with the Devil</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 8</Position>
+      <Intensity>18</Intensity>
+    </Item>
+    <Item>
+      <Name>Gore-Nado</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 0</Position>
+      <Intensity>2</Intensity>
+    </Item>
+    <Item>
+      <Name>Lightning Bolt</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 1</Position>
+      <Intensity>9</Intensity>
+    </Item>
+    <Item>
+      <Name>Gore-Nado</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 6</Position>
+      <Intensity>2</Intensity>
+    </Item>
+    <Item>
+      <Name>Mercy-Killing</Name>
+      <Tileset>cards1</Tileset>
+      <Position>2 8</Position>
+      <Intensity>5</Intensity>
+    </Item>
+  </Asset>
+</XnaContent>

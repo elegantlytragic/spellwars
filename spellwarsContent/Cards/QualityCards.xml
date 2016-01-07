@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SpellWarsLibrary.QualityCard[]">
+    <Item>
+      <Name>Boulder-iffic</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 2</Position>
+    </Item>
+    <Item>
+      <Name>Delicious</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 3</Position>
+    </Item>
+    <Item>
+      <Name>Polished</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 4</Position>
+    </Item>
+    <Item>
+      <Name>Cat-A-Strophic</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 7</Position>
+    </Item>
+    <Item>
+      <Name>Mysterious</Name>
+      <Tileset>cards1</Tileset>
+      <Position>0 9</Position>
+    </Item>
+    <Item>
+      <Name>Dicey</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 1</Position>
+    </Item>
+    <Item>
+      <Name>Maggoty</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 3</Position>
+    </Item>
+    <Item>
+      <Name>Maggoty</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 4</Position>
+    </Item>
+    <Item>
+      <Name>Two-Faced</Name>
+      <Tileset>cards1</Tileset>
+      <Position>1 7</Position>
+    </Item>
+  </Asset>
+</XnaContent>
